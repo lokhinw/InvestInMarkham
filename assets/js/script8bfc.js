@@ -185,7 +185,7 @@
       margin: 30,
       nav: !0,
       dost: !1,
-      autoplay: !0,
+      autoplay: 0,
       loop: !0,
       animateOut: "fadeOut",
       autoHeight: !0,
